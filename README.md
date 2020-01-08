@@ -10,3 +10,4 @@ The script should run with the Python 3.5 standard library
 
 Where source is either php, asp, aspx, cfm, js, cgi or brf.
 The paths for each specific source can be changed in `path.json`
+
